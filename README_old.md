@@ -35,10 +35,10 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smart-boy-929367220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartboy" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/muzaffar-sharofitdinov-929367220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smartboy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MuzaffarSharofitdinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MuzaffarSharofitdinov" height="30" width="40" /></a>
 <a href="https://instagram.com/MuzaffarSharofitdinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MuzaffarSharofitdinov" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="smartboy" height="30" width="40" /></a>
+<a href="mailto:smartboymuzaffar@gmail.com" target="blank"><img align="center" src="https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="smartboy" height="40" width="40" /></a>
 </p>
 
 <!--
