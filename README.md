@@ -39,6 +39,7 @@
 <a href="https://www.facebook.com/MuzaffarSharofitdinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MuzaffarSharofitdinov" height="30" width="40" /></a>
 <a href="https://instagram.com/MuzaffarSharofitdinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MuzaffarSharofitdinov" height="30" width="40" /></a>
 <a href="mailto:smartboymuzaffar@gmail.com" target="blank"><img align="center" src="https://images.icon-icons.com/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="smartboy" height="40" width="40" /></a>
+<a href="https://pypi.org/user/smartboymuzaffar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pypi/pypi-original.svg" alt="pypi" height="30" width="40" /></a>
 </p>
 
 <!--
