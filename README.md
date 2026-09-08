@@ -6,9 +6,9 @@
 <p align="center">
   <a href="https://t.me/Muzaffar"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
 </p>
-<p align="center">
 
-</p>
+<br><br><br
+
 <p align="center">
 <!--
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
