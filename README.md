@@ -4,10 +4,9 @@
 <h3 align="center">A Python Developer from Uzbekistan</h3>
 
 <p align="center">
-  <a href="https://t.me/Muzaffar"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+  <a href="https://t.me/MuzaffarSharofitdinov"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
 </p>
 
-<br><br><br
 
 <p align="center">
 <!--
