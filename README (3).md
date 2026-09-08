@@ -5,10 +5,6 @@
   <a href="https://t.me/MuzaffarSharofitdinov"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MuzaffarSharofitdinov&theme=tokyonight">
-</p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MuzaffarSharofitdinov&label=Profile%20views&color=0e75b6&style=flat" alt="MuzaffarSharofitdinov" />
 </p>
